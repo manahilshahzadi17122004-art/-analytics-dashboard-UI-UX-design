@@ -12,10 +12,11 @@ This project delivers a complete Figma design system and a responsive analytics 
 
 ## Figma file
 
-View the interactive prototype here:
-**[Analytics Dashboard — Figma Prototype](https://www.figma.com/proto/6vtjL8c4eRajgluW4IFOz0/Untitled?node-id=30-118&t=aZE9KU0H5AADhFz8-1)**
+**[View the design file (wireframes, design system, and screens)](https://www.figma.com/proto/6vtjL8c4eRajgluW4IFOz0/Untitled?node-id=20-26&t=aZE9KU0H5AADhFz8-1)**
 
-Open the link, then use the **Play** button in Figma to click through the live prototype.
+**[View the interactive prototype](https://www.figma.com/proto/6vtjL8c4eRajgluW4IFOz0/Untitled?node-id=30-118&t=aZE9KU0H5AADhFz8-1)**
+
+Open the design file link to browse the wireframe, color/typography styles, and both dashboard screens. Open the prototype link and use the **Play** button in Figma to click through the live, interactive version.
 
 ## What's included
 
