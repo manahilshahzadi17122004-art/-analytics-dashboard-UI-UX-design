@@ -12,7 +12,7 @@ This project delivers a complete Figma design system and a responsive analytics 
 
 ## Figma file
 
-**[View the design file (wireframes, design system, and screens)](https://www.figma.com/design/6vtjL8c4eRajgluW4IFOz0/Untitled?node-id=20-26&t=aZE9KU0H5AADhFz8-0)**
+**[View the design file (wireframes, design system, and screens)](https://www.figma.com/design/6vtjL8c4eRajgluW4IFOz0/Untitled?node-id=0-1&p=f&t=wmHpyEUCMDhPxyhu-0)**
 
 **[View the interactive prototype](https://www.figma.com/proto/6vtjL8c4eRajgluW4IFOz0/Untitled?node-id=30-118&t=aZE9KU0H5AADhFz8-1)**
 
